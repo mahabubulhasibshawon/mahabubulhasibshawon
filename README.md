@@ -13,6 +13,18 @@
 ###
 
 <div align="left">
+  <!-- Golang -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="golang logo" />
+<img width="12" />
+
+<!-- Docker -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+<img width="12" />
+
+<!-- REST API (Generic API icon) -->
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postman.svg" height="40" alt="rest api logo" />
+<img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
